@@ -1,1 +1,3 @@
-Belajar-Retrofit2 Mudah kok liat kodingannya aja langsung bisa :P
+#CRUD-Android-Retrofit
+
+Aplikasi CRUD untuk yg baru belajar
